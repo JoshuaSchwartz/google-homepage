@@ -1,0 +1,1 @@
+This is the first project. The goal is to make a site that looks like the Google homepage.
